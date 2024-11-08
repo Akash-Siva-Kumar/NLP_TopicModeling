@@ -1,0 +1,14 @@
+To make code compact LDA model usage and BERTopic model usage- code is made into two separate ipynb files
+'NLP_Topic_Modeling_LDA_Akash.ipynb'and 'NLP_Topic_Modeling_BERTopic_Akash.ipynb'
+
+To run code.
+
+1. Upload the data file 'newyorktimes_articles_2020_April.json' to Google Drive.
+
+2. Open the 'NLP_Topic_Modeling_LDA_Akash.ipynb' on Google Colab.
+
+3. Give Run all
+
+ALL DETAILS ASSOCIATED WITH EACH CODE BLOCK AND ITS WORKING IS WELL COMMENTED IN CODE AND MADE SELF EXPLANATORY ~Akash
+
+Same steps are to be followed for 'NLP_Topic_Modeling_BERTopic_Akash.ipynb'
